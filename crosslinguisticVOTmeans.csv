@@ -1,0 +1,249 @@
+family,language,dialect,vot.category,contrast,labial,coronal,dorsal
+Afro-Asiatic,Amharic,NA,short.lag,yes,19,33.55,43.8
+Afro-Asiatic,Arabic,NA,lead,yes,-64,-71,-57
+Afro-Asiatic,Arabic,NA,long.lag,yes,NA,33.5,42.7
+Afro-Asiatic,Dahalo,NA,short.lag,yes,20,28.5,27
+Afro-Asiatic,Hebrew (Modern),NA,lead,yes,-91.9,-90.9,-81.3
+Afro-Asiatic,Hebrew (Modern),NA,long.lag,yes,27.05,34.55,58.95
+Afro-Asiatic,Musey,NA,short.lag,yes,20.5,18.5,31.5
+Algic,Ojibwe,Salteaux,short.lag,yes,8.75833333333333,19.425,17.5708333333333
+Altaic,Azerbaijani,NA,long.lag,yes,86.88,87.09,115.905
+Altaic,Azerbaijani,NA,short.lag,yes,10.64,13.35,44.715
+Altaic,Turkish,NA,lead,yes,-65.95,-52.9,-9.75
+Altaic,Turkish,NA,long.lag,yes,40.75,49.7,69.35
+Arauan,Banawa,NA,short.lag,yes,NA,22,44
+Austro-Asiatic,Pnar,NA,lead,yes,-108.5,-86,NA
+Austro-Asiatic,Pnar,NA,long.lag,yes,55.5,58.5,73.5
+Austro-Asiatic,Pnar,NA,short.lag,yes,8,8.5,19.5
+Austro-Asiatic,Remo,NA,short.lag,yes,29,25,36
+Austronesian,Belep,NA,short.lag,no,19,15,34
+Austronesian,Madurese,NA,lead,yes,-20,-27.5,-54
+Austronesian,Madurese,NA,long.lag,yes,37.3333333333333,29,50
+Austronesian,Madurese,NA,short.lag,yes,12.6666666666667,13,23.6666666666667
+Austronesian,Malay,Singaporean,short.lag,yes,6.2,7.58,36.02
+Austronesian,Tsou,NA,short.lag,no,11,17,28
+Austronesian,Yapese,NA,short.lag,yes,20,22,56
+Burushaski,Burushaski,NA,long.lag,yes,34.86,54.6,41.1
+Burushaski,Burushaski,NA,short.lag,yes,0,5.075,5.425
+Chapacura-Wanham,Wari',NA,short.lag,no,19,26,54
+Creole,Hawaiian Creole,NA,short.lag,yes,30.1,25.7,37.5
+Dravidian,Tamil,Singaporean,short.lag,yes,9.955,7.15,31.805
+Dravidian,Tamil,NA,lead,yes,-74,-78,-62
+Dravidian,Telugu,NA,lead,yes,-124.44625,-112.56875,-107.2375
+Dravidian,Telugu,NA,short.lag,yes,20.9375,24.655,51.41625
+Eskimo-Aleut,Aleut (Eastern),NA,long.lag,no,NA,59,76.5
+Eskimo-Aleut,Aleut (Western),NA,long.lag,no,NA,76,93.5
+Ijoid,Defaka,NA,short.lag,yes,18,20,30
+Indo-European,Afrikaans,NA,lead,yes,NA,-50.54,-45.835
+Indo-European,Afrikaans,NA,short.lag,yes,NA,15.91,13.27
+Indo-European,Armenian (Eastern),NA,long.lag,yes,78,59,98
+Indo-European,Armenian (Eastern),NA,short.lag,yes,3,15,30
+Indo-European,Assamese,Nalbaria,lead,yes,-59,-46,-35
+Indo-European,Assamese,Nalbaria,long.lag,yes,58,65,79
+Indo-European,Assamese,Nalbaria,short.lag,yes,24,21,34
+Indo-European,Bengali,Bangla,long.lag,yes,32.11,36.035,46.63
+Indo-European,Bengali,Bangla,short.lag,yes,3.175,3.335,5.825
+Indo-European,Bengali,East Bengali,long.lag,yes,NA,57,73
+Indo-European,Bengali,East Bengali,short.lag,yes,14.5,19,29
+Indo-European,Catalan,NA,short.lag,yes,23,27,47
+Indo-European,Croatian,NA,short.lag,yes,17.5,20,41
+Indo-European,Danish,NA,long.lag,yes,67.6333333333333,85.6,69.7
+Indo-European,Danish,NA,short.lag,yes,16.5666666666667,21.7666666666667,30.7333333333333
+Indo-European,Dutch,NA,long.lag,yes,38.76,53.8483333333333,62.478
+Indo-European,Dutch,NA,short.lag,yes,10.8316666666667,18.9883333333333,27.6666666666667
+Indo-European,English,American,lead,yes,-30.9957142857143,-39.1435714285714,-6.66666666666667
+Indo-European,English,American,long.lag,yes,78.88,96.8711111111111,86.45
+Indo-European,English,Australian,long.lag,yes,77,92,NA
+Indo-European,English,Australian,short.lag,yes,0,5,NA
+Indo-European,English,British,long.lag,yes,56.7,73.7,81.65
+Indo-European,English,British,short.lag,yes,18,25.35,34.65
+Indo-European,English,Canadian,long.lag,yes,62,70,90
+Indo-European,English,Indian,short.lag,yes,24.4,36.02,NA
+Indo-European,English,Singaporean,lead,yes,-13.9833333333333,-8.03333333333333,8.44333333333333
+Indo-European,English,Singaporean,long.lag,yes,29.9266666666667,35.7233333333333,49.5633333333333
+Indo-European,English,NA,long.lag,yes,59.2371428571429,71.2589285714286,75.1470833333333
+Indo-European,English,NA,short.lag,yes,8.58888888888889,7.16666666666667,20.8144444444444
+Indo-European,French,Burkina Faso,lead,yes,-66,-58,NA
+Indo-European,French,Burkina Faso,short.lag,yes,17,26,31
+Indo-European,French,Canadian,lead,yes,-95,-83.25,-61.75
+Indo-European,French,Canadian,long.lag,yes,26.25,41.5,52
+Indo-European,French,Ivory Coast,lead,yes,-65,-62,-54
+Indo-European,French,Ivory Coast,short.lag,yes,12,23,29
+Indo-European,French,Mali,lead,yes,-55,-61,-42
+Indo-European,French,Mali,short.lag,yes,14,23,33
+Indo-European,French,Paris,short.lag,yes,11.5,18.5,25.5
+Indo-European,French,Quebec,short.lag,yes,20,28,35
+Indo-European,French,Senegal,lead,yes,-65,-70,-49
+Indo-European,French,Senegal,short.lag,yes,15,20,29
+Indo-European,French,NA,short.lag,yes,18,23,32
+Indo-European,Gaelic (Scots),NA,long.lag,yes,63,65,73
+Indo-European,Gaelic (Scots),NA,short.lag,yes,13,22,28
+Indo-European,German,Austrian,long.lag,yes,40.29,47.125,81.93
+Indo-European,German,Austrian,short.lag,yes,31.625,19.79,28.45
+Indo-European,German,Swiss,short.lag,yes,15.945,19.765,28.24
+Indo-European,German,NA,long.lag,yes,55,63.4,77.5
+Indo-European,German,NA,short.lag,yes,-1,9.4,26
+Indo-European,Greek (Modern),NA,lead,yes,-132,-133,NA
+Indo-European,Greek (Modern),NA,short.lag,yes,15.3,19.8,49.2
+Indo-European,Hindi,NA,lead,yes,-38.5,-29.8571428571429,-10.9033333333333
+Indo-European,Hindi,NA,long.lag,yes,68.6666666666667,60.7142857142857,85.54
+Indo-European,Hindi,NA,short.lag,yes,14,18.4285714285714,35.3083333333333
+Indo-European,Icelandic,Northern Dialect,long.lag,yes,49.3333333333333,57.6666666666667,63
+Indo-European,Icelandic,Northern Dialect,short.lag,yes,12,17,27
+Indo-European,Icelandic,Southern Dialect,long.lag,yes,52.5,57.25,64
+Indo-European,Icelandic,Southern Dialect,short.lag,yes,12,17,27.6666666666667
+Indo-European,Italian,Calabrian,short.lag,yes,13.1,17.6,19.2
+Indo-European,Italian,NA,lead,yes,-87,-90,-86
+Indo-European,Italian,NA,short.lag,yes,11.5,18,32
+Indo-European,Kurmanji,NA,long.lag,yes,41.4425,44.975,58.2575
+Indo-European,Marathi,NA,long.lag,yes,110,81.25,102.5
+Indo-European,Marathi,NA,short.lag,yes,11,12.125,28.5
+Indo-European,Nepali,NA,lead,yes,-78.51,-84.21,-67.55
+Indo-European,Nepali,NA,long.lag,yes,69.43,59.31,83.56
+Indo-European,Nepali,NA,short.lag,yes,5.99,10.97,26.79
+Indo-European,Norwegian,Bergen-Trondheim-Eastern (avg),long.lag,yes,56,64,74
+Indo-European,Norwegian,Bergen-Trondheim-Eastern (avg),short.lag,yes,9,12,24
+Indo-European,Norwegian,NA,long.lag,yes,64.055,72.14,71.725
+Indo-European,Norwegian,NA,short.lag,yes,14.61,18.8,23.665
+Indo-European,Pahari,NA,lead,yes,-94,-101.5,-109
+Indo-European,Pahari,NA,long.lag,yes,66,59.5,77
+Indo-European,Pahari,NA,short.lag,yes,19,17,27
+Indo-European,Panjabi,NA,long.lag,yes,77.5,65,67.5
+Indo-European,Panjabi,NA,short.lag,yes,24.5,23,36.5
+Indo-European,Pashto,Khyber Pakhtoonkhaw province,short.lag,yes,14.94,21.04,33.58
+Indo-European,Persian,NA,lead,yes,-34.2,-42.8,-36.8666666666667
+Indo-European,Persian,NA,long.lag,yes,68.12,78.395,95.0066666666667
+Indo-European,Polish,NA,lead,yes,-83.1,-80.95,-63.55
+Indo-European,Polish,NA,short.lag,yes,26.9216666666667,29.0933333333333,41.4216666666667
+Indo-European,Portuguese (Brazilian),NA,lead,yes,-24.015,-20.2483333333333,0.388333333333331
+Indo-European,Portuguese (Brazilian),NA,short.lag,yes,23.8766666666667,18.85,50.6933333333333
+Indo-European,Portuguese (European),NA,lead,yes,-43,-36.5,-28
+Indo-European,Portuguese (European),NA,short.lag,yes,20,28,51
+Indo-European,Russian,St. Petersburg,lead,yes,-70,-75,-78
+Indo-European,Russian,St. Petersburg,short.lag,yes,18,20,38
+Indo-European,Serbian,NA,lead,yes,-117.42,-118.12,-112.15
+Indo-European,Serbian,NA,short.lag,yes,23.335,24.25,53.865
+Indo-European,Sindhi,NA,long.lag,yes,20.15,42.35,72.5
+Indo-European,Sindhi,NA,short.lag,yes,14.5,16.85,22
+Indo-European,Spanish,Argentina,short.lag,yes,10,15,25
+Indo-European,Spanish,Castilian,lead,yes,-91.5,-91.6,-73.7
+Indo-European,Spanish,Castilian,short.lag,yes,13.1,14,26.5
+Indo-European,Spanish,Guatamalan,lead,yes,-120.3,-108.8,-101.4
+Indo-European,Spanish,Guatamalan,short.lag,yes,9.8,10.3,25.7
+Indo-European,Spanish,Peruvian,lead,yes,-101.7,-110.2,-98.4
+Indo-European,Spanish,Peruvian,short.lag,yes,15.2,16.2,29.7
+Indo-European,Spanish,Puerto.Rico,lead,yes,-138,-110,-108
+Indo-European,Spanish,Puerto.Rico,short.lag,yes,4,9,29
+Indo-European,Spanish,Rural,lead,yes,-89,-83,-86
+Indo-European,Spanish,Rural,short.lag,yes,17,22,38
+Indo-European,Spanish,Urban,lead,yes,-70,-64,-59
+Indo-European,Spanish,Urban,short.lag,yes,16,21,33
+Indo-European,Spanish,Venezuelen,lead,yes,-95.2,-78.5,-63.9
+Indo-European,Spanish,Venezuelen,short.lag,yes,14,20.6,32.6
+Indo-European,Spanish,Yucatan,short.lag,yes,17.2,22,34
+Indo-European,Spanish,NA,lead,yes,-82,-80,-68
+Indo-European,Spanish,NA,short.lag,yes,19.0688888888889,21.4334444444444,33.884
+Indo-European,Swedish,Arjeplog,long.lag,yes,46,52.75,61.75
+Indo-European,Swedish,Arjeplog,short.lag,yes,12,15.75,29.75
+Indo-European,Swedish,NA,lead,yes,-86.6325,-66.7675,-53.1825
+Indo-European,Swedish,NA,long.lag,yes,47.645,59.41,74.03
+Indo-European,Welsh,Patagonia,short.lag,yes,17,40,36
+Indo-European,Welsh,Wales,long.lag,yes,31,55,49
+Japanese,Japanese,NA,lead,yes,-72,-46.5,-25
+Japanese,Japanese,NA,long.lag,yes,33.6666666666667,29.1666666666667,59.2333333333333
+Kartvelian,Georgian,NA,long.lag,yes,62.2,62.85,70.05
+Kartvelian,Georgian,NA,short.lag,yes,8.95,11.9,20.75
+Kordofanian,Moro,NA,lead,yes,-78.25,-80.415,-81.71
+Kordofanian,Moro,NA,short.lag,yes,20.45,17.31,39.75
+Korean,Korean,NA,long.lag,yes,55.895,50.321,70.18
+Mayan,Itzaj Maya,NA,short.lag,no,24,26,42
+Mayan,Mam (Southern),NA,long.lag,no,13.8,NA,47.5
+Mayan,Mopan Maya,NA,long.lag,no,73,34,50
+Mayan,Tzutujil,NA,short.lag,no,12,17,29
+Mayan,Yukateko Maya,NA,long.lag,no,25,18,64
+Muskogean,Chickasaw,NA,short.lag,yes,12.5,21.5,36
+Na-Dene,Apache (Western),NA,long.lag,yes,NA,58,80
+Na-Dene,Apache (Western),NA,short.lag,yes,13,15,31
+Na-Dene,Hupa,NA,long.lag,yes,NA,82,84
+Na-Dene,Hupa,NA,short.lag,yes,11,16,35.5
+Na-Dene,Navajo,NA,long.lag,yes,NA,130,154
+Na-Dene,Navajo,NA,short.lag,yes,12,6,45
+Na-Dene,Tlingit,NA,long.lag,yes,NA,120,128
+Na-Dene,Tlingit,NA,short.lag,yes,NA,18,29
+Nakh-Daghestanian,Udi,NA,long.lag,yes,53,54,64
+Niger-Congo,Bowiri,NA,short.lag,yes,17,18,39
+Niger-Congo,Igbo,NA,short.lag,yes,19,18,32
+Niger-Congo,Shekgalagari,NA,lead,yes,-88.5,-80.7,-83.6
+Niger-Congo,Shekgalagari,NA,long.lag,yes,64.5,63.7,81.3
+Niger-Congo,Shekgalagari,NA,short.lag,yes,14.1,12.6,31.8
+Niger-Congo,Swati,NA,long.lag,yes,97.17,90.9,106.5
+Niger-Congo,Swati,NA,short.lag,yes,18.58,19.25,24.67
+Niger-Congo,Tswana,Sengwato,long.lag,yes,69.2,78,77.9
+Niger-Congo,Tswana,Sengwato,short.lag,yes,2.6,3.5,13.5
+Niger-Congo,Xhosa,NA,long.lag,yes,92,102,105
+Niger-Congo,Xhosa,NA,short.lag,yes,10,11,26.5
+Niger-Congo,Zulu,NA,long.lag,yes,64.74,77.1933333333333,82.26
+Niger-Congo,Zulu,NA,short.lag,yes,12.8666666666667,10.7866666666667,26.83
+Northwest Caucasian,Kabardian,Turkish,lead,yes,-38,-18,-25
+Northwest Caucasian,Kabardian,Turkish,long.lag,yes,36,51,71.6666666666667
+Oto-Manguean,Mazatec (Jalapa),NA,long.lag,yes,NA,63,80
+Oto-Manguean,Mazatec (Jalapa),NA,short.lag,yes,NA,11,23
+Oto-Manguean,Zapotec (Yalalag),NA,lead,yes,-90,-106,-130
+Oto-Manguean,Zapotec (Yalalag),NA,short.lag,yes,15,27,45.5
+Pama-Nyungan,Warlpiri,NA,short.lag,no,26.5,19.66,44.545
+Pama-Nyungan,Yan-Nhangu,NA,short.lag,yes,27.29,22.7633333333333,31.83
+Quechuan,Quechua (Bolivian),South.Bolivian,long.lag,yes,115,126,123
+Quechuan,Quechua (Bolivian),South.Bolivian,short.lag,yes,15,21,34
+Quechuan,Quechua (Cuzco),Cuzco,short.lag,yes,19,24,42
+Quechuan,Quichua,NA,lead,yes,-100,-97,-89
+Quechuan,Quichua,NA,short.lag,yes,16,23,28
+Salishan,Montana Salish,NA,long.lag,no,21,24.5,50.75
+Sino-Tibetan,Bunun,NA,short.lag,no,11,11,25
+Sino-Tibetan,Burmese,NA,long.lag,yes,46,67,76
+Sino-Tibetan,Burmese,NA,short.lag,yes,5,15.5,31
+Sino-Tibetan,Cantonese,NA,long.lag,yes,77,75,87
+Sino-Tibetan,Cantonese,NA,short.lag,yes,9,14,34
+Sino-Tibetan,Fukienese,NA,long.lag,yes,80,79.5,95.5
+Sino-Tibetan,Fukienese,NA,short.lag,yes,4.5,9.5,21.5
+Sino-Tibetan,Galo,NA,lead,yes,-89,-98,-74
+Sino-Tibetan,Galo,NA,short.lag,yes,8,12,26
+Sino-Tibetan,Hakha Lai,NA,short.lag,yes,12.3,20.5,24
+Sino-Tibetan,Hakka,NA,long.lag,yes,61.4266666666667,59.2433333333333,75.5433333333333
+Sino-Tibetan,Hakka,NA,short.lag,yes,14.4283333333333,15.3783333333333,27.0116666666667
+Sino-Tibetan,Hokkien,Singaporean,long.lag,yes,78.68,74.75,79.37
+Sino-Tibetan,Hokkien,Singaporean,short.lag,yes,2.25,3.13,14.15
+Sino-Tibetan,Karen (Sgaw),NA,lead,yes,-70.5,-49,NA
+Sino-Tibetan,Karen (Sgaw),NA,long.lag,yes,74.1666666666667,70.8333333333333,91.25
+Sino-Tibetan,Karen (Sgaw),NA,short.lag,yes,14,15,31.9166666666667
+Sino-Tibetan,Khonoma Angami,NA,lead,yes,-160.5,-176.5,-143.5
+Sino-Tibetan,Khonoma Angami,NA,long.lag,yes,83,62.5,99.5
+Sino-Tibetan,Khonoma Angami,NA,short.lag,yes,10,11.5,24.5
+Sino-Tibetan,Kurtop,NA,lead,yes,-64.95,-63.8466666666667,-29.7725
+Sino-Tibetan,Kurtop,NA,long.lag,yes,46.685,46.4775,79.055
+Sino-Tibetan,Mandarin,Singaporean,long.lag,yes,85.67,106.62,79.41
+Sino-Tibetan,Mandarin,Singaporean,short.lag,yes,3.45,4.56,19.46
+Sino-Tibetan,Mandarin,NA,long.lag,yes,85.1,90.1333333333333,95.7333333333333
+Sino-Tibetan,Mandarin,NA,short.lag,yes,9.98333333333333,12.15,22.6
+Sino-Tibetan,Stau,NA,lead,yes,-122.5,-116.7,-126.3
+Sino-Tibetan,Wu (Shanghainese),NA,long.lag,yes,117,101,NA
+Sino-Tibetan,Wu (Shanghainese),NA,short.lag,yes,10,20,NA
+Tai-Kadai,Tai Khamti,NA,long.lag,yes,59,55,80
+Tai-Kadai,Tai Khamti,NA,short.lag,yes,18,15,26
+Tai-Kadai,Thai,NA,long.lag,yes,68.5,70.5,97.5
+Tai-Kadai,Thai,NA,short.lag,yes,5.5,8.5,24
+Tangkic,Kayardild,NA,short.lag,no,22.53,25.8033333333333,29.99
+Ticuna,Tikuna,Yari-Tikuna,lead,yes,-140,-140,-131
+Ticuna,Tikuna,Yari-Tikuna,short.lag,yes,6,10,34
+Tucanoan,Waimaha,NA,long.lag,yes,NA,96,81.5
+Tucanoan,Waimaha,NA,short.lag,yes,NA,22,22
+Tupian,Arara,NA,short.lag,yes,15,18,37
+Tupian,Munduruku,NA,lead,yes,-109,-105,NA
+Tupian,Munduruku,NA,short.lag,yes,11.975,15.15,35.975
+Uralic,Finnish,NA,short.lag,yes,9,11,20
+Uralic,Hungarian,NA,lead,yes,-94.6,-95.1,-89.6
+Uralic,Hungarian,NA,short.lag,yes,15.34,19.8,41.52
+Uto-Aztecan,Paiute (Northern),NA,short.lag,no,16.25,14.4,37.81
+Uto-Aztecan,Shoshoni,NA,short.lag,no,20.47,17.55,51.93
+Uto-Aztecan,Ute,Southern,short.lag,no,6,14,18
+Wakashan,Kwakw'ala,NA,long.lag,yes,68.3333333333333,60.3333333333333,91.8
+Wakashan,Kwakw'ala,NA,short.lag,yes,2.33333333333333,6,23.8
