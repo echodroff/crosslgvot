@@ -187,7 +187,7 @@ server <- function(input, output) {
 		mydat[,1:7]}, options=list(scrollX=T, list(width='50%', targets=c(4))), rownames=F))
 		
 	
-		url <- a("OSF", href="https://osf.io/ry3en/?view_only=39da1fe1f24c4c8191007d60f3364af0", target="_blank")
+		url <- a("OSF", href="https://osf.io/ry3en", target="_blank")
 		output$link2data <- renderUI({
 		tagList("Download the data here: ", url)})
 		
